@@ -1,0 +1,22 @@
+#propaganda{
+    padding: 0;
+}
+.banner{
+    background-color:#399E13;
+    color: azure;
+    text-align: center;
+    height: 30rem;
+}
+#captureimg .banner{
+    background-image: url("/img/logo2.jpeg");
+    background-color: transparent;
+}
+img:hover{
+    filter: opacity(50%)
+}
+
+#footer{
+    background-color: black;
+    color: silver;
+    padding: 20px 30px;
+}
